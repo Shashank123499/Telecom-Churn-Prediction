@@ -9,15 +9,26 @@ The objective is to help telecom companies identify at-risk customers and take p
 This dataset obtained from kaggle.<br>
 The dataset contains customer information such as:
 
-1.Gender<br>
-2.Senior Citizen<br>
-3.Tenure<br>
-4.Monthly Charges<br>
-5.Total Charges<br>
-6.Contract Type<br>
-7.Internet Service<br>
-8.Payment Method<br>
-9.Churn Status<br>
+1.customerID<br>
+2.Gender<br>
+3.Senior Citizen<br>
+4.Tenure<br>
+5.Monthly Charges<br>
+6.Total Charges<br>
+7.Contract Type<br>
+8.Internet Service<br>
+9.Dependents<br>
+10.Payment Method<br>
+11.MultipleLines<br>
+12.OnlineSecurity<br>
+13.OnlineBackup<br>
+14.TechSupport<br>
+15.DeviceProtection<br>
+16.StreamingMovies<br>
+17.StreamingTV<br>
+18.PaperlessBilling<br>
+19.Partner<br>
+20.Churn Status<br>
 # Target Variable:
 Churn (Yes/No)
 
