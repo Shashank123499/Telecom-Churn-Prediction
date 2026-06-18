@@ -3,43 +3,40 @@ Telecom customer churn prediction using scikit-learn and XGBOOST to identify cus
 # Project Overview
 
 This project predicts whether a telecom customer is likely to leave (churn) or stay with the company using Machine Learning techniques.<br>
-
 The objective is to help telecom companies identify at-risk customers and take proactive measures to improve customer retention.
 
 # Dataset
+This dataset obtained from kaggle.<br>
+The dataset contains customer information such as:<br
 
-The dataset contains customer information such as:<br>
-
-Gender<br>
-Senior Citizen<br>
-Tenure<br>
-Monthly Charges<br>
-Total Charges<br>
-Contract Type<br>
-Internet Service<br>
-Payment Method<br>
-Churn Status<br>
-
+1.Gender<br>
+2.Senior Citizen<br>
+3.Tenure<br>
+4.Monthly Charges<br>
+5.Total Charges<br>
+6.Contract Type<br>
+7.Internet Service<br>
+8.Payment Method<br>
+9.Churn Status<br>
 # Target Variable:
-
 Churn (Yes/No)
 
 # Technologies Used
-Python<br>
-Pandas<br>
-NumPy<br>
-Matplotli<br>b
-Seaborn<br>
-Scikit-lear<br>n
-XGBoost<br>
+1.Python<br>
+2.Pandas<br>
+3.NumPy<br>
+4.Matplotlib<br>
+5.Seaborn<br>
+6.Scikit-lear<br>n
+7.XGBoost<br>
 
 # Machine Learning Workflow
-Data Cleaning<br>
-Exploratory Data Analysis (EDA)<br>
-Feature Engineering<br>
-Data Preprocessing<br>
-Model Training<br>
-Model Evaluation<br>
+1.Data Cleaning<br>
+2.Exploratory Data Analysis (EDA)<br>
+3.Feature Engineering<br>
+4.Data Preprocessing<br>
+5.Model Training<br>
+6.Model Evaluation<br>
 
 # Model Performance
 Metric-Score<br>
