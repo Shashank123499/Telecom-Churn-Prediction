@@ -7,7 +7,7 @@ The objective is to help telecom companies identify at-risk customers and take p
 
 # Dataset
 This dataset obtained from kaggle.<br>
-The dataset contains customer information such as:<br
+The dataset contains customer information such as:
 
 1.Gender<br>
 2.Senior Citizen<br>
