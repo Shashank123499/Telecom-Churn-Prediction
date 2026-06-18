@@ -1,5 +1,6 @@
 Pandas
 Matplotlib
+Seaborn
 Scikit-Learn
 XGBOOST
 Imblearn
