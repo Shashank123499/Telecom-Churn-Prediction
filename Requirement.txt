@@ -1,8 +1,8 @@
-Pandas
-Matplotlib
-Seaborn
-Scikit-Learn
+pandas
+matplotlib
+seaborn
+scikit-Learn
 XGBOOST
-Imblearn
-Stremlit
-Joblib
+imblearn
+stremlit
+joblib
