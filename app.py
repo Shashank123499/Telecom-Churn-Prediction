@@ -5,7 +5,7 @@ import streamlit as st
 
 # Load saved model and processor
 model = pickle.load(open('churn-Prediction.pkl','rb'))
-processor = pickle.load(open('Processor.pkl','rb'))
+processor = pickle.load(open('processor.pkl','rb'))
 
 st.title("📞 Telecom Churn Prediction")
 
