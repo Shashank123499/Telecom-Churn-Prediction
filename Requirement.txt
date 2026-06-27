@@ -4,3 +4,5 @@ Seaborn
 Scikit-Learn
 XGBOOST
 Imblearn
+Stremlit
+Joblib
