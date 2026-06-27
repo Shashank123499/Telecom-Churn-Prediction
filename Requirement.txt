@@ -4,5 +4,5 @@ seaborn
 scikit-Learn
 xgboost
 imblearn
-stremlit
+streamlit
 pickle
