@@ -3,6 +3,6 @@ matplotlib
 seaborn
 scikit-Learn
 xgboost
-imblearn
+imbalanced-learn
 streamlit
-pickle
+
