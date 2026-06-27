@@ -1,11 +1,11 @@
 import pandas as pd
-import joblib
+import pickle
 import streamlit as st
 
 
 # Load saved model and processor
-model = joblib.load('churn-Prediction.pkl')
-processor = joblib.load('processor.pkl')
+model = pickle.load('churn-Prediction.pkl')
+processor = pickle.load('processor.pkl')
 
 st.title("📞 Telecom Churn Prediction")
 
