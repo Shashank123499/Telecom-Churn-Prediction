@@ -2,7 +2,7 @@ pandas
 matplotlib
 seaborn
 scikit-Learn
-XGBOOST
+xgboost
 imblearn
 stremlit
 joblib
