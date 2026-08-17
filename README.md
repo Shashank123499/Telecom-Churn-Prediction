@@ -139,13 +139,7 @@ Telecom-Churn-Prediction/<br>
 │   ├── confusion_matrix.png<br>
 │   └── Actual_VS_Predicted.csv<br>
 
-│
-└── screenshots/<br>
-    ├── login.png<br>
-    ├── dashboard.png<br>
-    ├── prediction.png<br>
-    ├── analytics.png<br>
-    └── report.png<br>
+
 
 ## Future Improvements
 
