@@ -1,4 +1,4 @@
-# Telecom-Churn-Prediction
+# Telecom Customer Churn Analysis & Prediction
 Telecom customer churn prediction using scikit-learn and XGBOOST to identify customers likely to leave a telecom service.<br>
 # Project Overview
 
