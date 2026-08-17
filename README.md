@@ -120,19 +120,23 @@ Telecom-Churn-Prediction/<br>
 
 │
 ├── Churn.ipynb<br>
+
 │
 ├── models/<br>
 │   ├── churn-Prediction.pkl<br>
 │   └── processor.pkl<br>
+
 │
 ├── data/<br>
 │   └── Telco-Customer-Churn.csv<br>
+
 │
 ├── reports/<br>
 │   ├── classification_report.txt<br>
 │   ├── Model_Score.txt<br>
 │   ├── confusion_matrix.png<br>
 │   └── Actual_VS_Predicted.csv<br>
+
 │
 └── screenshots/<br>
     ├── login.png<br>
