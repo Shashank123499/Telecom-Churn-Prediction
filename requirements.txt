@@ -4,6 +4,7 @@ matplotlib
 seaborn
 scikit-Learn
 xgboost
+reportlab
 imbalanced-learn
 streamlit
 
