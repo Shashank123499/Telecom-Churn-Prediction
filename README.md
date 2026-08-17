@@ -101,11 +101,44 @@ Precision	78.79%<br>
 Recall	93.58%<br>
 F1 Score	85.55%<br>
 
-# Project Structure
-telecom_churn_prediction.ipynb : Main notebook<br>
-telecom_churn_model.pkl : Trained model<br>
-requirements.txt : Required libraries<br>
-README.md : Project documentation<br>
+Telecom-Churn-Prediction/
+│
+├── .devcontainer/<br>
+│
+├── .gitignore<br>
+├── LICENSE<br>
+├── README.md<br>
+├── requirements.txt<br>
+│
+├── app.py
+│
+├── dashboard.py<br>
+├── analytics.py<br>
+├── predict.py<br>
+├── reports.py<br>
+├── login.py<br>
+│
+├── Churn.ipynb
+│
+├── models/<br>
+│   ├── churn-Prediction.pkl<br>
+│   └── processor.pkl<br>
+│
+├── data/
+│   └── Telco-Customer-Churn.csv
+│
+├── reports/<br>
+│   ├── classification_report.txt<br>
+│   ├── Model_Score.txt<br>
+│   ├── confusion_matrix.png<br>
+│   └── Actual_VS_Predicted.csv<br>
+│
+└── screenshots/
+    ├── login.png<br>
+    ├── dashboard.png<br>
+    ├── prediction.png<br>
+    ├── analytics.png<br>
+    └── report.png<br>
 
 ## Future Improvements
 
