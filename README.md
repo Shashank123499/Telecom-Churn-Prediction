@@ -101,7 +101,7 @@ Precision	78.79%<br>
 Recall	93.58%<br>
 F1 Score	85.55%<br>
 
-Telecom-Churn-Prediction/
+Telecom-Churn-Prediction/<br>
 │
 ├── .devcontainer/<br>
 │
@@ -110,7 +110,7 @@ Telecom-Churn-Prediction/
 ├── README.md<br>
 ├── requirements.txt<br>
 │
-├── app.py
+├── app.py<br>
 │
 ├── dashboard.py<br>
 ├── analytics.py<br>
@@ -118,14 +118,14 @@ Telecom-Churn-Prediction/
 ├── reports.py<br>
 ├── login.py<br>
 │
-├── Churn.ipynb
+├── Churn.ipynb<br>
 │
 ├── models/<br>
 │   ├── churn-Prediction.pkl<br>
 │   └── processor.pkl<br>
 │
-├── data/
-│   └── Telco-Customer-Churn.csv
+├── data/<br>
+│   └── Telco-Customer-Churn.csv<br>
 │
 ├── reports/<br>
 │   ├── classification_report.txt<br>
@@ -133,7 +133,7 @@ Telecom-Churn-Prediction/
 │   ├── confusion_matrix.png<br>
 │   └── Actual_VS_Predicted.csv<br>
 │
-└── screenshots/
+└── screenshots/<br>
     ├── login.png<br>
     ├── dashboard.png<br>
     ├── prediction.png<br>
